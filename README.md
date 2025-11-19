@@ -1,5 +1,4 @@
-![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/5eb0df3e-1333-4a98-a32a-d509f06f8794)
-
+https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif
 ###
 
 <h1 align="left">Hi there, I'm Shivam Mittal! 👋</h1>
