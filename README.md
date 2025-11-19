@@ -1,5 +1,6 @@
-![andersomviolao](https://github.com/user-attachments/assets/bb69c82f-f81a-44ca-982f-bb58d531fadc)
-###
+
+###![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/78556551-b988-4bcb-a08f-50b5597cf7c1)
+
 
 <h1 align="left">Hi there, I'm Shivam Mittal! 👋</h1>
 
