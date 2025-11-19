@@ -1,6 +1,4 @@
-
-![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/6a4693b8-5464-4abe-8ada-1f8dfca95ed5)
-https://tenor.com/en-GB/view/andersomviolao-gif-14607652667555092838
+![andersomviolao](https://github.com/user-attachments/assets/bb69c82f-f81a-44ca-982f-bb58d531fadc)
 ###
 
 <h1 align="left">Hi there, I'm Shivam Mittal! 👋</h1>
