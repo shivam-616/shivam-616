@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since : 2022 (Start of your B.Tech Journey)<br>📚 I'm currently learning : Advanced System Design & Cloud Native Architecture<br>🎯 Goals: To build scalable, real-time, and multi-user backend systems<br>🎲 Fun fact: I was a photographer for my college club and have captured/edited over 250 event images!</p>
+<p align="left">✨ Creating bugs since : 2022 (Start of my B.Tech Journey)<br>📚 I'm currently learning : Advanced System Design & Cloud Native Architecture<br>🎯 Goals: To build scalable, real-time, and multi-user backend systems<br>🎲 Fun fact: I was a photographer for my college club and have captured/edited over 250 event images!</p>
 
 ###
 
